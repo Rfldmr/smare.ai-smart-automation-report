@@ -18,7 +18,7 @@ SMARE AI is an AI-based automatic report generation system for water quality tes
 
 ## ⛓️‍💥 Project Link
 
-[Click here](https://smare-ai.streamlit.app/) or check the "Dataset" folder in the repository to access the dataset.
+[Click here](https://smare-ai.streamlit.app/) to take you to the SMARE AI project website.
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ SMARE AI is an AI-based automatic report generation system for water quality tes
   
 ## 📖 Dataset
 
-[Click here](https://drive.google.com/drive/folders/1FUQS6PoDmd0uHLU0gUPyAM5lNV8ODXzp?usp=sharing) to access the dataset.
+[Click here](https://drive.google.com/drive/folders/187IDqx69aEmxg5I9n4lfnlSLM2MbENEh?usp=sharing) or check the "Dataset" folder in the repository to access the dataset.
 
 <br>
 
