@@ -14,7 +14,7 @@
 
 ## 💡 Overview
 
-WeaVis is a simple website that can recognize weather uploaded by users or through live camera photos. WeaVis will also provide descriptions and information about the weather uploaded by users. WeaVis is built using a CNN model with MobileNet architecture, and Streamlit as a support library to build the website display.
+SMARE AI is an AI-based automatic report generation system for water quality testing certification. Supported by the Gradient Booster algorithm, SMARE AI can predict water quality categories with test result data inputted by users and automatically generate test certificate reports in PDF format.
 
 ## ⛓️‍💥 Project Link
 
