@@ -32,7 +32,7 @@ SMARE AI is an AI-based automatic report generation system for water quality tes
 - **Streamlit**: A Python library for creating interactive web apps for data science and machine learning.
 - **Scikit-Learn**: Scikit-learn is a Python library that provides an efficient implementation of Gradient Boosting.
 - **Joblib**: Joblib is a Python library for saving and loading pre-trained machine learning models.
-- **Gradient Boosting**: Gradient boosting is a machine learning algorithm that combines many weak models to produce a strong predictive model.
+- **Gradient Boosting**: A machine learning algorithm that combines many weak models to produce a strong predictive model.
 - **GitHub**: A platform for help host and managing code projects.
   
 ## 📖 Dataset
