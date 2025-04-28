@@ -61,7 +61,7 @@ We welcome contributions to this project. Please follow these steps to contribut
 1. Accuracy score: 0.6121814791796146
 2. Precision score: 0.5228136882129277
 3. Recall score: 0.4243827160493827
-F1-Score: 0.4684838160136286
+4. F1-Score: 0.4684838160136286
 
 - **Confusion Matrix**
 
