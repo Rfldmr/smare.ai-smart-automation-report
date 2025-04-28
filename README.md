@@ -8,7 +8,7 @@
 
 <br>
 
-<img src ="./asset/screen2.png" width="80%">
+<img src ="./Asset/homepage.png" width="80%">
 
 </div>
 
