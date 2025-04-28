@@ -54,17 +54,15 @@ We welcome contributions to this project. Please follow these steps to contribut
 4. **Install the Streamlit framework with the following command** (`pip install streamlit`).
 5. **Run the following command to run the program on localhost** (`python -m streamlit run app.py`).
 
-## 📉 Model Accuracy and Loss Graph
+## 📉 Model Metrics & Confusion Matrix
 
-- **CNN Based Model**
+- **Model Metrics**
 
 Akurasi Training Tertinggi: 0.79 | Akurasi Testing Tertinggi: 0.77
 
-<img src ="./asset/cnnbased_graph.png" width="60%">
 
-- **ResNet50 Model**
 
-Akurasi Training Tertinggi: 0.90 | Akurasi Testing Tertinggi: 0.90
+- **Confusion**
 
 <img src ="./asset/ResNet50_graph.png" width="60%">
 
