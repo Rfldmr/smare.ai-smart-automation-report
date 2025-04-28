@@ -62,7 +62,7 @@ Akurasi Training Tertinggi: 0.79 | Akurasi Testing Tertinggi: 0.77
 
 
 
-- **Confusion**
+- **Confusion Matrix**
 
 <img src ="./Asset/confusionmatrix.png" width="60%">
 
