@@ -64,7 +64,7 @@ Akurasi Training Tertinggi: 0.79 | Akurasi Testing Tertinggi: 0.77
 
 - **Confusion**
 
-<img src ="./asset/ResNet50_graph.png" width="60%">
+<img src ="./Asset/confusionmatrix.png" width="60%">
 
 ## ⚖️ Copyright
 
