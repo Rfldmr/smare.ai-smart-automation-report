@@ -42,14 +42,13 @@ SMARE AI is an AI-based automatic report generation system for water quality tes
 <br>
 
 Credits to the original dataset owner:
-- Xiao, H. (2021). Weather phenomenon database (WEAPD). Harvard Dataverse. [DOI](https://doi.org/10.7910/DVN/M8JQCR)
-- Ajayi, G. (2018). Multi-class Weather Dataset for Image Classification. Mendeley Data, V1. [DOI](http://dx.doi.org/10.17632/4drtyfjtfy.1)
+- Aditya, K. (2021). Water Quality.
 
 ## 📝 How to Use This Code?
 
 We welcome contributions to this project. Please follow these steps to contribute:
 
-1. **Clone this repository to your computer** (`git clone https://github.com/Rfldmr/weavis-weather-recognition-using-cnn.git`)
+1. **Clone this repository to your computer** (`git clone https://github.com/Rfldmr/smare.ai-smart-automation-report.git`)
 2. **Read the requirements.txt file in the repository, make sure you have installed everything needed according to the version listed.**
 3. **Open the file named app.py which is in the repository.**
 4. **Install the Streamlit framework with the following command** (`pip install streamlit`).
@@ -68,24 +67,6 @@ Akurasi Training Tertinggi: 0.79 | Akurasi Testing Tertinggi: 0.77
 Akurasi Training Tertinggi: 0.90 | Akurasi Testing Tertinggi: 0.90
 
 <img src ="./asset/ResNet50_graph.png" width="60%">
-
-- **AlexNet Model**
-
-Akurasi Training Tertinggi: 0.91 | Akurasi Testing Tertinggi: 0.88
-
-<img src ="./asset/AlexNet_graph.png" width="60%">
-
-- **MobileNet v3 Large Model**
-
-Akurasi Training Tertinggi: 0.93 | Akurasi Testing Tertinggi: 0.91
-
-<img src ="./asset/MobileNet v3 Large_graph.png" width="60%">
-
-- **VGG16 Model**
-
-Akurasi Training Tertinggi: 0.93 | Akurasi Testing Tertinggi: 0.89
-
-<img src ="./asset/VGG16_graph.png" width="60%">
 
 ## ⚖️ Copyright
 
