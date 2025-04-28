@@ -251,7 +251,7 @@ if button_place.button("Buat Laporan"):
         pdf.multi_cell(200, 5, f"           *) Klasifikasi kategori kelayakan hasil uji ditentukan secara otomatis dengan dukungan kecerdasan buatan.\n           **) Ambang batas yang dituliskan merujuk pada Permenkes No.492/MENKES/PER/IV/2010.\n            ***) Ini adalah project fiktif. Segala data, informasi, dan juga hak cipta yang digunakan tidak 100% benar.", align="L")
         
         
-        pdf.set_xy(pdf.w - 100, pdf.h - 61)
+        pdf.set_xy(pdf.w - 100, pdf.h - 60)
         pdf.set_font("Arial", "", 9 )
         tanggal_rilis = "Bogor, " + datetime.now().strftime("%d %B %Y")
         pdf.cell(90, 5, tanggal_rilis, ln=1, align="C")
