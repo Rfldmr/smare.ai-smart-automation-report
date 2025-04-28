@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h2>⛅ SMARE.AI: Smart Automation Report</h2>
+<h2>📄 SMARE.AI: Smart Automation Report</h2>
 
 <br>
 
