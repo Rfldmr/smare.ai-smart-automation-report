@@ -18,23 +18,20 @@ SMARE AI is an AI-based automatic report generation system for water quality tes
 
 ## ⛓️‍💥 Project Link
 
-[Click here](https://weavis.streamlit.app) to take you to the WeaVis project website.
+[Click here](https://smare-ai.streamlit.app/) to take you to the SMARE AI project website.
 
 ## ✨ Features
 
-- 📤 Weather recognition by uploading images.
-- 📸 Weather recognition with real-time camera.
-- 📢 Information on what to do and what not to do during the weather.
-- 📄 Explanation of the current weather.
+- 📋 Create automatic reports in PDF format.
+- 💧 Automatically predict water quality categories with AI.
+- 📥 Download PDF feature to generate print-ready reports.
 
 ## 👩‍💻 Tech Stack
 
 - **Python**:  A versatile programming language used for web development, machine learning, and more.
-- **PyTorch**: An open-source machine learning library based on Torch.
 - **Streamlit**: A Python library for creating interactive web apps for data science and machine learning.
+- **Scikit-Learn**: Scikit-learn is a Python library that provides an efficient implementation of Gradient Boosting.
 - **GitHub**: A platform for help host and managing code projects.
-- **ResNet50, AlexNet, MobileNet v3 Large, VGG16**: CNN architectures commonly used in computer vision tasks.
-- **Adam Optimizer**: An optimization algorithm used in training neural networks.
   
 ## 📖 Dataset
 
