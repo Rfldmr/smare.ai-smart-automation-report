@@ -67,6 +67,11 @@ We welcome contributions to this project. Please follow these steps to contribut
 
 <img src ="./Asset/confusionmatrix.png" width="40%">
 
+## Reference
+
+Vlaskovits, P. (2024). *Water Quality Classification*. Kaggle.
+https://www.kaggle.com/code/petervlaskovits/water-quality-classification
+
 ## Copyright
 
 © 2025 Rafli Damara.
