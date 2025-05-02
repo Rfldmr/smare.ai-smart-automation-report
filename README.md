@@ -69,7 +69,7 @@ We welcome contributions to this project. Please follow these steps to contribut
 
 ## Reference
 
-Vlaskovits, P. (2024). *Water Quality Classification*. Kaggle. [Click here] (https://www.kaggle.com/code/petervlaskovits/water-quality-classification)
+Vlaskovits, P. (2024). *Water Quality Classification*. Kaggle. [Click here](https://www.kaggle.com/code/petervlaskovits/water-quality-classification)
 
 ## Copyright
 
