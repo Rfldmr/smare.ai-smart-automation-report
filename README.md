@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h2>📄 SMARE.AI: Smart Automation Report</h2>
+<h2>SMARE.AI: Smart Automation Report</h2>
 
 <br>
 
@@ -63,7 +63,7 @@ We welcome contributions to this project. Please follow these steps to contribut
 3. Recall score: 0.4243827160493827
 4. F1-Score: 0.4684838160136286
 
-- **Confusion Matrix**
+- **Classification Report**
 
 <img src ="./Asset/confusionmatrix.png" width="40%">
 
