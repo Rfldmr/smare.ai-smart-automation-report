@@ -54,7 +54,7 @@ We welcome contributions to this project. Please follow these steps to contribut
 4. **Install the Streamlit framework with the following command** (`pip install streamlit`).
 5. **Run the following command to run the program on localhost** (`python -m streamlit run app.py`).
 
-## Model Metrics & Confusion Matrix
+## Model Evaluation
 
 - **Model Metrics**
 
@@ -63,7 +63,7 @@ We welcome contributions to this project. Please follow these steps to contribut
 3. Recall score: 0.4243827160493827
 4. F1-Score: 0.4684838160136286
 
-- **Classification Report**
+- **Confusion Matrix**
 
 <img src ="./Asset/confusionmatrix.png" width="40%">
 
